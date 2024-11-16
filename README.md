@@ -1,9 +1,6 @@
 # Robot-Movement
 Here's a README file for project:
-
----
-
-# Robot Movement Simulation
+---------
 
 This project simulates the movement of robots on a grid based on user input. The robots can be added to the grid, moved in different directions, and avoid collisions with other robots. The grid size and robot movement instructions can be specified by the user.
 
